@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Demonstracao.unity
+    guid: 2e293428703e3a446b54c06f017a650d
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TecnologiaSocial.unity
+    guid: baeb33843f8eaae4b9bd307bd7cb4d86
+  - enabled: 1
+    path: Assets/Scenes/ConhecaTecnologia.unity
+    guid: a8655befac5b9074caae04ea92677aab
+  - enabled: 1
+    path: Assets/Scenes/MateriaisNecessariosFogaoSolar.unity
+    guid: cca1fbecfc76829489bfb1373bcdb8a9
+  - enabled: 1
+    path: Assets/Scenes/ComoConstruirFogaoSolar.unity
+    guid: bfdbb1a22549def4a8a52c0efff618fa
+  - enabled: 1
+    path: Assets/Scenes/Aprendendo.unity
+    guid: 4f8b6a55b56fab94f99544473f0c764b
+  - enabled: 1
+    path: Assets/Scenes/extraAR.unity
+    guid: b4508d41a37ab704bacd494bfc6f803c
+  - enabled: 1
+    path: Assets/Scenes/Sobre.unity
+    guid: 69bd0d90cbae60f40b5bcb80a5bae03f
+  - enabled: 1
+    path: Assets/Scenes/AR_FogaoSolar.unity
+    guid: bce8424e65ea8b34f84170b128ba715f
+  - enabled: 1
+    path: Assets/3D Model/fogao_solar.unity
+    guid: adcb711153c0c1747b9f68f8c155b279
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: 746270f746b437d41bac529fef95a216
+  - enabled: 1
+    path: Assets/Scenes/QuizPerguntas-I.unity
+    guid: c838fe6c840ff2440bde81d5a1a4adc0
+  - enabled: 1
+    path: Assets/Scenes/QuizPerguntas-II.unity
+    guid: 5141437ad20420f48ac58c669f074759
+  - enabled: 1
+    path: Assets/Scenes/EscolhaExtra.unity
+    guid: 7b1b176ed1aff544fb917eb5c26ce969
+  - enabled: 1
+    path: Assets/Scenes/BlankAR.unity
+    guid: 6bdce89659816455b9f906fc62d19910
+  - enabled: 1
+    path: Assets/Scenes/AR_Spider.unity
+    guid: 6427b1ad785cb5d47a08fbb2f0af3844
+  - enabled: 1
+    path: Assets/Scenes/ComoConstruirDessanilizador.unity
+    guid: 9c0ac6355e88ee54d9bc6259fc3c0e08
+  - enabled: 1
+    path: Assets/Scenes/MateriaisNecessariosDessalinizador.unity
+    guid: 41b1b140a05d1024cb0ded5e3be3daff
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ef26ad86299afb4429ff5b710b818323, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 3eb120578cf998147b737ac745982916, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2c2f7f8e5375f63429e6d66ead9925e6, type: 2}
